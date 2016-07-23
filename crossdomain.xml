@@ -3,5 +3,5 @@
   <allow-access-from domain="scratchx.org"/>
   <allow-access-from domain="llk.github.io"/>
   <allow-access-from domain="scratchx.github.io"/>
-  <allow-access-from domain="ex.tsuda.ac.jp" />
+  <allow-access-from domain="tsuda.ac.jp" />
 </cross-domain-policy>
