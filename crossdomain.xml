@@ -10,4 +10,5 @@
   <allow-access-from domain="savaka2.github.io"/>
   <allow-access-from domain="stephenhowell.github.io"/>
   <allow-access-from domain="thepuzzlegame.github.io"/>
+    <allow-access-from domain="127.0.0.1"/>
 </cross-domain-policy>
