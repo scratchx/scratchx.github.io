@@ -4,4 +4,8 @@
   <allow-access-from domain="llk.github.io"/>
   <allow-access-from domain="scratchx.github.io"/>
   <allow-access-from domain="tsuda.ac.jp" />
+  <allow-access-from domain="sayamindu.github.io"/>
+  <allow-access-from domain="savaka2.github.io"/>
+  <allow-access-from domain="stephenhowell.github.io"/>
+  <allow-access-from domain="thepuzzlegame.github.io"/>
 </cross-domain-policy>
