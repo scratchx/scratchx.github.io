@@ -1,1 +1,0 @@
-ScratchExtensions.loadExternalJS("http://savaka2.github.io/scratch-extensions-directory/extensions/FeedMe_RSS_fun.js");
